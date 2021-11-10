@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LgwNYrM3iUAT3mlQH7wL7+iLVl417YkxmRqb097r0iofLTuqnaGcImK1bSPY+WaCyyTuVr5jfSgRs8VNAezyqA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\luizh\\vs_projects\\Classes\\OOP\\OOP.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\luizh\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
